@@ -1,0 +1,26 @@
+   /* {
+    background-image: url("../../images/homeBack.svg");
+   } */
+
+.bgk-img{
+    background-image: url("../../images/homeBack.svg");
+    height: 100vh;
+   }
+.title{
+    text-align: center;
+    color: rgb(235, 57, 57);
+    padding-top:150px
+    
+}
+.title1{
+    text-align: center;
+    color: rgb(235, 57, 57);
+    padding-top:15px
+    
+}
+.title2{
+    text-align: center;
+    color: rgb(235, 57, 57);
+    padding-top:15px
+    
+}
